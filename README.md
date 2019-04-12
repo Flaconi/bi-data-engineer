@@ -15,5 +15,3 @@ Please provide an sql query to get list of Premium Customer. SQL can be written 
 
 Data structure and sample data will be provided later.
 
-# SOLUTION
-Please send your solution to bi-dev@flaconi.de
